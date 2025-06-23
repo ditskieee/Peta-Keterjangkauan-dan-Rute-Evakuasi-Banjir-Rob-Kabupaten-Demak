@@ -1,0 +1,1 @@
+var json_PermukimanMargolinduk_13 = {"type":"FeatureCollection","name":"PermukimanMargolinduk_13","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1"},"geometry":{"type":"Point","coordinates":[110.553241409469805,-6.830716437428816]}}]}

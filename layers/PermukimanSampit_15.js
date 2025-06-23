@@ -1,0 +1,1 @@
+var json_PermukimanSampit_15 = {"type":"FeatureCollection","name":"PermukimanSampit_15","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1"},"geometry":{"type":"Point","coordinates":[110.534774539034657,-6.889565231295161]}}]}

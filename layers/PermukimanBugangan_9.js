@@ -1,0 +1,1 @@
+var json_PermukimanBugangan_9 = {"type":"FeatureCollection","name":"PermukimanBugangan_9","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1"},"geometry":{"type":"Point","coordinates":[110.552578351478559,-6.903311674183502]}}]}
